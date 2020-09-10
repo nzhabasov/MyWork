@@ -19,7 +19,6 @@ print("Значение переменной: ", counter)
 #     3. Вывести на экран все значения (каждое на новой строке), но одной линией кода (использовать "\n" и только один "print()").
 
 
-
 #   1 Сделанно
 
 SurName = 'Zhabassov'
@@ -35,3 +34,5 @@ print("Fullname: Zhabassov Nurbolat Kairatuly, i'm years: 18, i'm from:Qulsary, 
 #   3 Сделанно
 
 print(" fullname:Zhabassov Nurbolat Kairatuly","\n I'm years:18 \n I'm from:Qulsary \n Group:Aiu-19")
+
+
