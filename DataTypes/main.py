@@ -21,18 +21,20 @@ print("Значение переменной: ", counter)
 
 #   1 Сделанно
 
-SurName = 'Zhabassov'
-firstName = 'Nurbolat'
-years = '18'
-cityOfBrich = 'Qulsary'
-group = 'Aiu-19'
+surName = "Zhabassov"    # Фамиля
+firstName = "Nurbolat"   # Имя
+years = "18"             # Возраст
+city = "Qulsary"         # Город
+group = "Aiu-19"         # Группа
 
 #   2 Сделанно
 
-print("Fullname: Zhabassov Nurbolat Kairatuly, i'm years: 18, i'm from:Qulsary, group: Aiu-19")
+print("Фамиля:"  +surName+  ". Имя:"  +firstName+   ". Возраст:"   +years+  ". Город:"  +city+  ". Группа:"  +group)
 
 #   3 Сделанно
 
-print(" fullname:Zhabassov Nurbolat Kairatuly","\n I'm years:18 \n I'm from:Qulsary \n Group:Aiu-19")
+print("\n Фамиля: " +surName+ "\n Имя: " +firstName+ "\n Возраст: " +years+ "\n Город: " +city+  "\n Группа: " +group)
+
+
 
 
